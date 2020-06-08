@@ -5,7 +5,7 @@ A curated list of awesome data labeling tools
 #### Images
 
 * [labelImg](https://github.com/tzutalin/labelImg) - LabelImg is a graphical image annotation tool and label object bounding boxes in images
-* [cvcat](https://github.com/opencv/cvat) - Powerful and efficient Computer Vision Annotion Tool
+* [CVAT](https://github.com/opencv/cvat) - Powerful and efficient Computer Vision Annotion Tool
 * [labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python
 * [VoTT](https://github.com/microsoft/VoTT) - An open source annotation and labeling tool for image and video assets
 * [imglab](https://github.com/NaturalIntelligence/imglab) - A web based tool to label images for objects that can be used to train dlib or other object detectors
@@ -24,6 +24,8 @@ A curated list of awesome data labeling tools
 * [CATMAID](https://github.com/catmaid/CATMAID) - Collaborative Annotation Toolkit for Massive Amounts of Image Data
 * [make-sense](https://github.com/SkalskiP/make-sense) - makesense.ai is a free to use online tool for labelling photos
 * [LOST](https://github.com/l3p-cv/lost) - Design your own smart Image Annotation process in a web-based environment
+* [Annotorious](https://github.com/recogito/annotorious) - A JavaScript library for image annotation.
+* [Sloth](https://github.com/cvhciKIT/sloth) - Tool for labeling image and video data for computer vision research.
 
 #### Text
 * [YEDDA](https://github.com/jiesutd/YEDDA) - A Lightweight Collaborative Text Span Annotation Tool (Chunking, NER, etc.). ACL best demo nomination.
@@ -38,6 +40,8 @@ A curated list of awesome data labeling tools
 * [audio-labeler](https://github.com/hipstas/audio-labeler) - An in-browser app for labeling audio clips at random, using Docker and Flask.
 * [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Simple annotations tool, check the example.
 * [peak.js](https://github.com/bbc/peaks.js) - Browser-based audio waveform visualisation and UI component for interacting with audio waveforms, developed by BBC UK.
+* [Praat](https://github.com/praat/praat) - Doing Phonetics By Computer
+* [Aubio](https://aubio.org/) - Tool designed for the extraction of annotations from audio signals.
 
 #### Video 
 
